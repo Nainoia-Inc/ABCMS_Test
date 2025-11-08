@@ -1,7 +1,7 @@
 {
 	"name": "nainoiainc/abcms_test",
     "description": "ABCMS Test - Just playing around here",
-	"type": "abcms-plugin"
+	"type": "abcms-plugin",
     "license": "CC-BY-4.0",
     "authors": [
 		{
@@ -13,7 +13,7 @@
     "minimum-stability": "stable",
     "require": {
 		"php": ">=8.2"
-	}
+	},
     "autoload": {
         "psr-4": {
             "NainoiaInc\\ABCMS_Test\\": "/"
