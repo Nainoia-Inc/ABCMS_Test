@@ -1,7 +1,7 @@
 {
 	"name": "nainoiainc/abcms_test",
     "description": "ABCMS Test - Just playing around here",
-	"type": "abcms-package",
+	"type": "abcms-extension",
     "license": "CC-BY-4.0",
     "authors": [
 		{
